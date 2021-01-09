@@ -1,0 +1,73 @@
+@media only screen and (max-width: 375px){
+    nav {
+        width: 367px;
+    }
+    
+    .header-text-right {
+        display: none;
+    }
+    
+    .header-text-center wow fadeInLeft p {
+        text-align: center;
+    }
+    
+    .about-proffesionals{
+        display:none;
+    }
+}
+
+@media only screen and (max-width: 734px){
+    .about-proffesionals {
+    margin-left: 50px;
+    }
+}
+
+@media only screen and (max-width: 412px){
+    
+    .header-text-right {
+        display: none;
+    }
+    
+    .about-proffesionals{
+        display:none;
+    }
+ }
+
+@media only screen and (max-width: 684px){
+    
+    .about-proffesionals {
+    margin-left: 20px;
+    }
+ }
+
+@media only screen and (max-width: 414px){
+    
+    .header-text-right {
+        display: none;
+    }
+    
+    .header-text-center wow fadeInLeft p {
+        text-align: center;
+    }
+    
+    .about-proffesionals{
+        display:none;
+    }
+}
+
+@media only screen and (max-width: 736px){
+    
+    .about-proffesionals {
+    margin-left: 40px;
+    }
+ }
+
+@media only screen and (max-width: 768px){
+    
+    .about-proffesionals {
+        margin-left: 40px;
+        margin-top: 0px;
+        margin-bottom: 40px;
+    }
+ }
+
